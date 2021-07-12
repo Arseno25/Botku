@@ -8,7 +8,7 @@ if HEROKU:
     from os import environ
 
     BOT_TOKEN = environ.get("BOT_TOKEN", None)
-    API_ID = int(environ.get("API_ID", 6))
+    API_ID = int(environ.get("API_ID"))
     API_HASH = environ.get(
         "API_HASH", ""
     )
