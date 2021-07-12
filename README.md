@@ -32,7 +32,7 @@
 ## Install Locally Or On A VPS
 
 ```sh
-$ git clone https://github.com/Arseno25/Bot_CFT
+$ git clone https://github.com/Arseno25/Botku
 
 $ cd WilliamButcherBot
 
@@ -52,7 +52,7 @@ $ python3 -m wbb
 ## Generating Pyrogram Session For Heroku
 
 ```
-$ git clone https://github.com/Arseno25/Bot_CFT
+$ git clone https://github.com/Arseno25/Botku
 
 $ cd WilliamButcherBot
 
@@ -61,13 +61,13 @@ $ pip3 install pyrogram TgCrypto
 $ python3 str_gen.py
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arseno25/Bot_CFT/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arseno25/Botku/master)
 
 
 # Docker
 
 ```sh
-$ git clone https://github.com/Arseno25/Bot_CFT
+$ git clone https://github.com/Arseno25/Botku
 
 $ cd WilliamButcherBot
 
